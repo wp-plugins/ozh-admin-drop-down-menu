@@ -4,6 +4,7 @@ Tags: ozh, menu, menus, dashboard, admin, dropdown, drop down, productivity, css
 Requires at least: 2.5
 Tested up to: 2.6.5
 Stable tag: trunk
+Contributors: ozh
 
 All admin links available in a neat drop down menu. Go to any admin page from any admin page in 1 click.
 
